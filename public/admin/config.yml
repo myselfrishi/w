@@ -84,7 +84,7 @@ collections:
                 widget: "string"
                 hint: "The part of a URL identifies the tag"
               - label: "Display Name"
-                name: "name"
+                name: "myselfrishi"
                 widget: "string"
                 hint: "Tag name for displaying on the site"
 
